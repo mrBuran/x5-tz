@@ -128,6 +128,9 @@ TODO...
 
 ## Testing with CURL
 
+Let's suppose that we created a user "admin" with password "admin",
+then we'll use these credentials in next curl requests as "-u admin:admin".
+
 Create some applications:
 
 ```
